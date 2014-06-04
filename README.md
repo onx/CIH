@@ -1,4 +1,4 @@
-CIH 1.4 TTIT
+CIH (Chernobyl)
 ===
 
 CIH (also known as Chernobyl) was created in 1998 by Chén Yíngháo, a student at Tatung University in Taiwan. It affects only older Windows 9x (95, 98, Me) operating systems.
